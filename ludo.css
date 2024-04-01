@@ -77,7 +77,7 @@
 }
 
 .middle-square {
-  gap: 2px;
+  overflow: hidden;
   position: relative;
 }
 
